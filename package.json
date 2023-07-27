@@ -1,0 +1,29 @@
+{
+  "name": "bth012-hello-world",
+  "version": "1.0.0",
+  "description": "The Classic Hello World example as a node.js project with the course settings for linting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pobengtsson/bth012-hello-world.git"
+  },
+  "keywords": [
+    "bth012"
+  ],
+  "author": "Per-Olof Bengtsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pobengtsson/bth012-hello-world/issues"
+  },
+  "homepage": "https://github.com/pobengtsson/bth012-hello-world#readme",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
