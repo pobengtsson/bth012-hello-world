@@ -1,6 +1,14 @@
 # bth012-hello-world
 The Classic Hello World example as a node.js project with the course settings for linting.
 
+## Setup
+
+First thing to do after cloning this repo is to run `npm install` to install all development dependencies and tools like eslint.
+
+```bash
+$ npm install
+```
+
 ## Run the program
 
 ```bash
